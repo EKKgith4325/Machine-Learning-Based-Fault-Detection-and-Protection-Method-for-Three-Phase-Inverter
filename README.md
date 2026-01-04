@@ -20,6 +20,14 @@ This project addresses these challenges by integrating **Model-based residual ge
 
 ---
 
+<p align="center">
+  <img src="Model_Workflow.png" alt="ML-based fault detection workflow for three-phase inverter" width="750">
+</p>
+<p align="center">
+  <em>Figure: Model workflow of residual current–based machine learning fault detection and PWM protection for a three-phase inverter.</em>
+</p>
+
+---
 ## System Architecture
 The proposed framework consists of the following stages:
 
