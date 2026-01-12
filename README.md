@@ -1,9 +1,9 @@
 # Machine Learning Based Fault-Detection and Protection Method for Three-Phase Inverter
 
 ## Overview
-This repository presents a **Simulation-based research project** focused on **Real-time fault detection and protection of a three-phase Voltage Source Inverter (VSI)** using **Machine Learning and Residual current analysis**.
+This repository presents a **Research project** focused on **Real-time fault detection and protection of a three-phase Voltage Source Inverter (VSI)** using **Machine Learning and Residual current analysis**.
 
-The work was carried out as part of an **international research-based project internship (Dec. 2025)** under the guidance of Kuntal Mandal, PhD - Research & Development Engineer, E-Powertrain, IDIADA Automotive Technology, 43710 - Santa Oliva (Tarragona), Spain. 
+The work was carried out as part of an **International research-based project internship (Dec. 2025)** under the guidance of Kuntal Mandal, PhD - Research & Development Engineer, E-Powertrain, IDIADA Automotive Technology, 43710 - Santa Oliva (Tarragona), Spain. 
 The objective of the project is to design a **robust, fast, and interpretable fault diagnosis framework** that overcomes the limitations of conventional threshold-based protection methods.
 
 ---
@@ -78,7 +78,7 @@ The proposed framework consists of the following stages:
 ## Results
 Simulation results demonstrate the effectiveness of the proposed approach:
 
-- **Fault classification accuracy:** ~98–99% (simulation-based)
+- **Fault classification accuracy:** ~98–99% 
 - **Fault types detected:** Healthy, Open-phase, Short-circuit
 - **Protection response:** PWM shutdown triggered within 3 milliseconds after fault confirmation
 - **Robustness:** Persistence logic reduces false tripping due to transient disturbances
@@ -89,7 +89,7 @@ These results validate the suitability of the framework for **real-time inverter
 
 ## Tools & Technologies
 - MATLAB / Simulink  
-- Machine Learning Toolbox  
+- Machine Learning   
 - Signal Processing  
 - Power Electronics (VSI, PWM, RL modelling)
 
